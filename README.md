@@ -1,7 +1,7 @@
 ### Hi there 👋
  - I'm a iOS Developer
  - I'm working in Brandi
-
+ - 🌱 I’m currently learning Swift
 ### How to reach me? 🤔
 - Email: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fomagran6@gmail.com)](mailto:jim78707870@gmail.com)
 - Blog: <a href="https://velog.io/@akay"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
