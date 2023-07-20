@@ -1,5 +1,5 @@
 ### Hi there 👋
- - I'm a iOS Developer
+ - I'm a iOS Developer 
  - I'm working in Brandi
  - 🌱 I’m currently learning Swift
 ### How to reach me? 🤔
